@@ -1,0 +1,88 @@
+.navbar {
+    float: right;
+}
+
+.menu-icon,
+.user {
+    height: 30px;
+}
+
+.google-logo {
+    height: 100px;
+    margin: 100px 0 30px 100px;
+}
+
+.google-input {
+    margin-bottom: 3rem;
+    outline: none;
+    border: none;
+    border: 1px solid #c9c9c9;
+    width: 34rem;
+    border-radius: 100px;
+    padding: 0.5rem 0;
+    border-left-style: none;
+}
+
+.input-group-text {
+    margin-bottom: 3rem;
+    border-radius: 100px;
+    background-color: #fff;
+    color: #9c9c9c;
+}
+
+.btn {
+    margin-bottom: 2rem;
+    outline: none;
+    padding: 0.3rem 1rem;
+    background-color: #F8F9FA;
+    color: #272140;
+    border-radius: 4px;
+}
+
+.btn:hover {
+    border: 1px solid #c9c9c9;
+}
+
+.go {
+    margin-top: 1rem;
+    font-size: 10px;
+}
+
+.go-a {
+    margin-right: 0.5rem;
+    color: #1A0DBE;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.go-a:hover {
+    color: #1A0DBE;
+    text-decoration: underline;
+}
+
+.footer {
+    background-color: #f2f2f2;
+    font-size: 14px;
+    color: #6F6F99;
+}
+
+.p-footer {
+    margin-top: 0.6rem;
+    margin-bottom: -4px;
+    margin-left: 1.5rem;
+}
+
+.a-footer {
+    margin-left: 1.5rem;
+    text-decoration: none !important;
+}
+
+.a-foot {
+    text-decoration: none !important;
+    margin-right: 1rem;
+    color: #6F6F99;
+}
+
+a.footer:hover {
+    text-decoration: underline;
+}
